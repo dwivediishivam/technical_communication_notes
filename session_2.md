@@ -52,4 +52,63 @@ Technical writing is all about:
 - Crafting your sentences like shaping Play-Doh, keeping it neat and understandable.
 - Following a basic guide, almost like following a treasure map, ensuring you hit all the points!
 
-Good luck with your exam! 🌟📘🎉
+Good luck !! 🌟📘🎉
+
+# Key Points
+
+## Goal of Scientific Writing
+- Communicate ideas effectively.
+
+## Characteristics of Effective Scientific Writing
+- **Clear:** Avoid unnecessary details.
+- **Simple:** Use straightforward language. Use technical terms only when necessary.
+- **Impartial:** Avoid assumptions or unproven statements. Base your statements on evidence.
+- **Structured:** Maintain a logical order with clear section headings.
+- **Accurate:** Be specific and avoid ambiguous terms.
+- **Objective:** Support statements with evidence and acknowledge others' contributions.
+
+## Word Choice
+- **Technical Terms:** Use them only for clarity and precision. Avoid jargon.
+- **Abbreviations:** Use sparingly and standardly to avoid confusion.
+- **Objective vs. Subjective Language:** Stick to facts and avoid personal interpretations.
+  - Example: "The car traveled at 38 km/h" vs. "The car sped fast."
+
+## Voice in Writing
+- **Passive vs. Active Voice:** Understand when to use each.
+  - Passive is formal but can be cumbersome. E.g., "The experiment was designed by the researcher."
+  - Active is direct and clearer. E.g., "The researcher designed the experiment."
+
+## Eliminating Fluff
+- Avoid Unnecessary Intensifiers: Words like "very," "interestingly," "fundamentally" often add little value.
+- Stay Professional: Avoid imposing emotions.
+
+## Personal vs. Impersonal Language
+- **Impersonal:** Often more formal but can be ambiguous.
+- **Personal:** Direct but can be informal.
+- Find Balance: Ensure clarity in whatever you choose.
+
+## Inclusivity in Language
+- Avoid Gender Biased Sentences: Use gender-neutral language.
+
+## Sentence Structure
+- **Length:** Keep sentences concise (20-25 words) for clarity.
+- Avoid Complex Starters: E.g., instead of a long introduction, just say "We used X method to find Y."
+
+## Editing for Brevity
+- Examine & Simplify: Cut down unnecessary words and phrases.
+  - Original: "Based on data and literature, we propose..."
+  - Simplified: "Evidently, we propose..."
+
+## Basics of Effective Technical Writing
+- Consider Content & Context: Know what to say and where it fits.
+- Know Your Audience: Understand who you're writing for.
+- Stick to a Style Guide: Consistency is key.
+- Writing Style: Reflects the message you want to convey.
+- Avoid Plagiarism: Always give credit.
+- Grammar: It's essential for clear communication.
+
+## Characteristics of Technical Writing
+- **Conciseness:** Stay on point.
+- **Clarity:** Make it easy to understand.
+- **Selectiveness:** Choose the necessary information.
+- **Structure:** Plan how to express ideas.
