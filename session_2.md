@@ -1,4 +1,4 @@
-# 📝 Technical Communication: From Overwhelmed to "Oh, I get it!"
+# 📝 Communicating Scientific ideas clearly: From Clutter to Clarity"
 
 [Class PowerPoint Link](https://drive.google.com/file/d/1OREPXm9boLmOuLvgj75x3pfuUHYtagcS/view)
 
