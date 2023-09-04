@@ -1,5 +1,7 @@
 # Technical Communication: How to Read a Scientific Paper
 
+PPT Link - [Click Here](https://drive.google.com/file/d/10aduKr0U2UirivIDmoDmp5uv-oWXEcI_/view)
+
 ## Purpose of Reading Papers for Researchers:
 
 - Review for conferences or classes.
