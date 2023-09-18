@@ -1,5 +1,7 @@
 # Notes on "Technical Communication Week 6: Understanding Scientific Misconduct and Ethics in Research and Publication" 🎓✍️
 
+[Class Presentation](https://drive.google.com/file/d/1IQ2EL2kxvBfqrd7xQDLR_SgPN4UENfGi/view)
+
 ## 1. Ethics in Research and Publication 🧪📖
 
 **The Big Picture:** Whether you're a newbie or a seasoned researcher, it's essential to understand and stick to ethical boundaries.
